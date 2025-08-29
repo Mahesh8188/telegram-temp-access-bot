@@ -5,8 +5,8 @@
 from pyrogram import Client, filters
 import asyncio, time
 
-API_ID = 123456       # apna API_ID daalo (my.telegram.org se milega)
-API_HASH = "your_api_hash"   # apna API_HASH daalo
+API_ID = 26741021       # apna API_ID daalo (my.telegram.org se milega)
+API_HASH = "7c5af0b88c33d2f5cce8df5d82eb2a94"   # apna API_HASH daalo
 BOT_TOKEN = "your_bot_token" # BotFather se mila token
 GROUP_ID = -1001234567890    # apne supergroup ka ID daalo (jaise: -100xxxxxx)
 
