@@ -8,7 +8,7 @@ import asyncio, time
 API_ID = 26741021       # apna API_ID daalo (my.telegram.org se milega)
 API_HASH = "7c5af0b88c33d2f5cce8df5d82eb2a94"   # apna API_HASH daalo
 BOT_TOKEN = "your_bot_token" # BotFather se mila token
-GROUP_ID = -1001234567890    # apne supergroup ka ID daalo (jaise: -100xxxxxx)
+GROUP_ID = -1002988067946    # apne supergroup ka ID daalo (jaise: -100xxxxxx)
 
 app = Client("temp_access_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
